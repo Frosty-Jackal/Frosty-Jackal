@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frosty-Jackal
+- 👋 Hi, I’m Frosty-Jackal
 - 👀 I’m interested in CV
 - 🌱 I’m currently learning AI
 - 📫 How to reach me : hou_rui@stu.scu.edu.cn
