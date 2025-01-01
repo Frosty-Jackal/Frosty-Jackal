@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Frosty-Jackal, an undergraduate student in Sichuan University.
-- 🌱 I’m currently learning AI.
-- 👀 I’m interested in CV, in more detail, I like to delve into object detection models.
+- 🌱 I’m currently learning AI. I like to use PyTorch.
+- 👀 I’m interested in generative models and object detection.
 - 📫 How to reach me : hou_rui@stu.scu.edu.cn
