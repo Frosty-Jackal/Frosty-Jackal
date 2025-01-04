@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Frosty-Jackal, an undergraduate student in Sichuan University.
-- 🌱 I’m currently majoring in AI. I like to use PyTorch.
+- 🌱 I’m currently majoring in AI. I can utilize Python, C++. I like to use Pytorch framework.
 - 👀 I’m interested in neutral networks, generative models and object detection models.
 - 📫 How to reach me : hou_rui@stu.scu.edu.cn
