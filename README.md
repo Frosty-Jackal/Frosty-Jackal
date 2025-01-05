@@ -1,6 +1,8 @@
 # Hi there, I'm Frosty-Jackal(Rui Hou)! 👋
 
+
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, open-source contributions, and continuous learning. Here you'll find a collection of my personal projects, collaborative efforts, and contributions to the community.
+
 
 ## 🚀 About Me
 
@@ -11,10 +13,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 - 🤝 I’m looking to collaborate on open-source projects and innovative ideas.
 - 📫 How to reach me : hou_rui@stu.scu.edu.cn
 
+
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, C, C++
 - **Web Development:** HTML, CSS
 - **Tools:** Git, CodeBlocks, PyCharm, VS Code, Dev-C++
+
+
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects!
