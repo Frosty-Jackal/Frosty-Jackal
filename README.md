@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 ## 🚀 About Me
 
 - 👋 I’m @Frosty-Jackal, an undergraduate student in Sichuan University.
-- 🌱 I’m currently majoring in AI. I can utilize Python, C++. I like to use Pytorch framework.
+- 🌱 I’m currently majoring in AI. I like to use Pytorch.
 - 👀 I’m interested in neutral networks, generative models and object detection models.
 - 💬 Ask me about algorithm contests, machine learning, or any tech-related topics.
 - 🤝 I’m looking to collaborate on open-source projects and innovative ideas.
