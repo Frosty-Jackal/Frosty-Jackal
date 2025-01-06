@@ -1,6 +1,5 @@
 # Hi there, I'm Frosty-Jackal(Rui Hou)! 👋
 
-
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, open-source contributions, and continuous learning. Here you'll find a collection of my personal projects, collaborative efforts, and contributions to the community.
 
 
