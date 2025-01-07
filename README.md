@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, open-source contributions, and continuous learning. Here you'll find a collection of my personal projects, collaborative efforts, and contributions to the community.
 
-
 ## 🚀 About Me
 
 - 👋 I’m @Frosty-Jackal, an undergraduate student in Sichuan University.
@@ -18,7 +17,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 - **Languages:** Python, C, C++
 - **Web Development:** HTML, CSS
 - **Tools:** Git, CodeBlocks, PyCharm, VS Code, Dev-C++
-
-
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects!
