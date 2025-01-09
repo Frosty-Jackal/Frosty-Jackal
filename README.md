@@ -16,6 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 - **Languages:** Python, C, C++
 - **Web Development:** HTML, CSS
-- **Tools:** Git, CodeBlocks, PyCharm, VS Code, Dev-C++
+- **Tools:** Git, CodeBlocks, PyCharm, VS Code, Dev-C++, Google Colab
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects!
