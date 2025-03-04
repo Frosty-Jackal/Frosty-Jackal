@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, C, C++, Java
-- **Web Development:** HTML, CSS, Flask
-- **Tools:** Git, CodeBlocks, RedPandaIDE, PyCharm, VS Code, Dev-C++, Google Colab, IntelliJ IDEA
+- **Web Development:** HTML, CSS, Javascript, Flask
+- **Tools:** Git, CodeBlocks, RedPandaIDE, PyCharm, VS Code, Dev-C++, Google Colab, IntelliJ IDEA...
 
 Thanks for visiting my profile! Let's connect and collaborate on exciting projects!
