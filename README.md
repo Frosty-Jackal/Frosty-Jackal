@@ -7,7 +7,7 @@ Here you'll find a collection of my personal contributions and collaborative eff
 
 - 👋 I’m @Frosty-Jackal, an undergraduate student in Sichuan University.
 - 🌱 I’m currently majoring in AI.
-- 👀 I’m interested in diffuison models.
+- 👀 I’m interested in diffusion models.
 - 💬 Ask me about algorithm contests, deep learning, or any tech-related topics.
 - 🤝 I’m looking to collaborate on open-source projects and innovative ideas.
 - 📫 How to reach me : hou_rui@stu.scu.edu.cn
