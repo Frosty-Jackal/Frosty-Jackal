@@ -1,17 +1,13 @@
-# Hi there, I'm Frosty-Jackal(Rui Hou)! 👋
+# Hi there, I'm Frosty-Jackal(Rui Hou), an undergraduate student in Sichuan University.! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for continuous learning.
+Welcome to my GitHub profile! I'm a developer with a love for continuous learning.
 Here you'll find a collection of my personal contributions and collaborative efforts to the community.
 
 ## 🚀 About Me
 
-- 👋 I’m @Frosty-Jackal, an undergraduate student in Sichuan University.
-- 🌱 I’m currently majoring in AI.
-- 👀 I’m interested in diffusion models.
-- 💬 Ask me about algorithm contests, deep learning, or any tech-related topics.
+- 🌱 I’m currently majoring in AI and interested in diffusion models, algorithm contests.
 - 🤝 I’m looking to collaborate on open-source projects and innovative ideas.
 - 📫 How to reach me : hou_rui@stu.scu.edu.cn
-
 
 ## 🛠️ Technologies & Tools
 
